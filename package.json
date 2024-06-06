@@ -1,6 +1,6 @@
 {
   "name": "number_guess_game_by_using_chalk_codewithnoor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
@@ -9,7 +9,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Noor Shaikh",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.2.22"
